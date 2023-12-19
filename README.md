@@ -1,18 +1,11 @@
-# Boilerplate: Fullstack with Sass
+# Note:
+The spotify web player only works for Spotify premium users.
 
 ## Setup
+## Tech Stack: 
+TypeScript, React, Node.js, Express.js, SQLite database, Radix for styling, Integrated Spotify API and
+utilized Spotify libraries such as Spotify-web-API-node and react-Spotify-web-playback.
 
-### What's included
-
-This repo includes:
-
-* a single, simple API endpoint (`/api/v1/fruits`)
-* a single React component (`<App />`)
-* an example database module (`server/db/fruits.js`)
-* an API client module (`client/apis/fruits.js`)
-* configuration for Vitest and testing library
-* configuration for server-side debugging in VS Code
-* configuration for preprocessing Sass
 
 ### Installation
 
